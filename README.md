@@ -11,15 +11,14 @@ El personaje (Robot) cuando detecta movimiento a una distancia de 10 cm prende l
 ## Materiales a utlizar
 | Material         | Imagen | Cantidad | Precio  |
 |------------------|-------------------------------------------------------------------------------------------------------------|----------|---------|
-| Placa Arduino Uno|<img src="https://github.com/user-attachments/assets/39048c81-c2a8-47e7-b1f0-efc059c6aeee" width="60"/>| 1 | $15.00 |
-| Sensor PIR       | <img src="https://example.com/pir_sensor.jpg" width="100"/>                                                  | 1        | $5.00   |
-| Servomotor SG90   | <img src="https://example.com/servo.jpg" width="100"/>                                                      | 2        | $6.00   |
-| LEDs RGB         | <img src="https://example.com/led_rgb.jpg" width="100"/>                                                     | 2        | $2.00   |
-| Pantalla OLED    | <img src="https://example.com/oled_screen.jpg" width="100"/>                                                 | 1        | $10.00  |
-| Buzzer           | <img src="https://example.com/buzzer.jpg" width="100"/>                                                      | 1        | $2.00   |
-| Jumpers y cables | <img src="https://example.com/jumpers.jpg" width="100"/>                                                     | 1 pack   | $3.00   |
-| Resistencias     | <img src="https://example.com/resistors.jpg" width="100"/>                                                   | 2        | $1.00   |
-| Fuente de alimentación| <img src="https://example.com/power_supply.jpg" width="100"/>                                            | 1        | $10.00  |
+| Placa Arduino Uno | <img src="https://github.com/user-attachments/assets/39048c81-c2a8-47e7-b1f0-efc059c6aeee" width="60"/> | 1 | $15.00 |
+| Sensor PIR | <img src="https://github.com/user-attachments/assets/578ecc74-c630-4b28-a5da-534315be9ee1" width="100"/> | 1 | $5.00 |
+| Servomotor SG90 | <img src="https://github.com/user-attachments/assets/8ae1aa9c-0251-4731-b013-a7b8b73f5ba7" width="100"/> | 2 | $6.00 |
+| LEDs RGB | <img src="https://github.com/user-attachments/assets/0ef372bf-1c11-4ae0-9dfb-b34800260e96" width="100"/> | 2 | $2.00 |
+| Pantalla OLED | <img src="https://github.com/user-attachments/assets/58cc6ea6-59d0-4d65-a39e-90c917803234" width="100"/> | 1 | $10.00 |
+| Buzzer | <img src="https://github.com/user-attachments/assets/cd8d664c-87e8-4462-ad53-9b355c68a740" width="100"/> | 1 | $2.00 |
+| Jumpers y cables | <img src="https://github.com/user-attachments/assets/a280353d-bdbf-47d8-9919-6c51b14fe28b" width="100"/> | 1 pack | $3.00 |
+| Resistencias | <img src="https://github.com/user-attachments/assets/328da7ee-7586-4beb-8869-fc11694266de" width="100"/> | 2 | $1.00 |
 | Chasis (impreso en 3D) | <img src="https://example.com/chasis.jpg" width="100"/>                                                | 1        | $20.00  |
 
 ## Software a utilizar
