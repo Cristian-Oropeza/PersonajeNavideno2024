@@ -9,11 +9,18 @@ Cristian Efraín Oropeza Yepiz
 El personaje (Robot) cuando detecta movimiento a una distancia de 10 cm prende los leds que tiene en los ojos, ademas de que mueve los brazos a 90°, produce algo de sonido y muestra un mensaje en el pecho, todo esto durante 10 segundos despues de detectar moviemiento y luego se apaga.
 
 ## Materiales a utlizar
-|Material|Imagen|Cantidad|Costo|
-|--|--|--|--|
-|ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b&quot; width="100"/>|1|120.00|
-|HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b&quot; />|1|30.00|
-|...||||
+| Material         | Imagen | Cantidad | Precio  |
+|------------------|-------------------------------------------------------------------------------------------------------------|----------|---------|
+| Placa Arduino Uno| <img src="https://example.com/arduino_uno.jpg" width="100"/>                                                 | 1        | $15.00  |
+| Sensor PIR       | <img src="https://example.com/pir_sensor.jpg" width="100"/>                                                  | 1        | $5.00   |
+| Servomotor SG90   | <img src="https://example.com/servo.jpg" width="100"/>                                                      | 2        | $6.00   |
+| LEDs RGB         | <img src="https://example.com/led_rgb.jpg" width="100"/>                                                     | 2        | $2.00   |
+| Pantalla OLED    | <img src="https://example.com/oled_screen.jpg" width="100"/>                                                 | 1        | $10.00  |
+| Buzzer           | <img src="https://example.com/buzzer.jpg" width="100"/>                                                      | 1        | $2.00   |
+| Jumpers y cables | <img src="https://example.com/jumpers.jpg" width="100"/>                                                     | 1 pack   | $3.00   |
+| Resistencias     | <img src="https://example.com/resistors.jpg" width="100"/>                                                   | 2        | $1.00   |
+| Fuente de alimentación| <img src="https://example.com/power_supply.jpg" width="100"/>                                            | 1        | $10.00  |
+| Chasis (impreso en 3D) | <img src="https://example.com/chasis.jpg" width="100"/>                                                | 1        | $20.00  |
 
 ## Software a utilizar
 Thonny y Arduino IDE
