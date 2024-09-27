@@ -19,7 +19,7 @@ El personaje (Robot) cuando detecta movimiento a una distancia de 10 cm prende l
 | Buzzer | <img src="https://github.com/user-attachments/assets/cd8d664c-87e8-4462-ad53-9b355c68a740" width="100"/> | 1 | $2.00 |
 | Jumpers y cables | <img src="https://github.com/user-attachments/assets/a280353d-bdbf-47d8-9919-6c51b14fe28b" width="100"/> | 1 pack | $3.00 |
 | Resistencias | <img src="https://github.com/user-attachments/assets/328da7ee-7586-4beb-8869-fc11694266de" width="100"/> | 2 | $1.00 |
-| Chasis (impreso en 3D) | <img src="https://example.com/chasis.jpg" width="100"/>                                                | 1        | $20.00  |
+| Carton | <img src="https://github.com/user-attachments/assets/3ebfd4ba-f5f6-4d3a-84a9-6060d9243c37" width="100"/> | 1 | $20.00 |
 
 ## Software a utilizar
 Thonny y Arduino IDE
@@ -28,11 +28,11 @@ Thonny y Arduino IDE
 (imagen de personaje)
 
 ## Enlaces de la simulación de wokwi
-![image](https://github.com/user-attachments/assets/76de0020-36ae-4e0d-8aef-80d211e18875)
+**Enlace de simulacion de wokwi**
 https://wokwi.com/projects/410115459908023297 
 
-## Enlace de la simulacion de wokwi
-(Enlace de drive)
+**Enlace al video de la simulacion en wokwi**
+(Link drive)
 
 ## Capturas de Evaluaciones de Curso de C
 CE1 Modulo 1: Intro to computer programming and the C languaje
