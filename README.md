@@ -11,7 +11,7 @@ El personaje (Robot) cuando detecta movimiento a una distancia de 10 cm prende l
 ## Materiales a utlizar
 | Material         | Imagen | Cantidad | Precio  |
 |------------------|-------------------------------------------------------------------------------------------------------------|----------|---------|
-| Placa Arduino Uno|![image](https://github.com/user-attachments/assets/39048c81-c2a8-47e7-b1f0-efc059c6aeee)"| 1 | $15.00 |
+| Placa Arduino Uno|![image](https://github.com/user-attachments/assets/39048c81-c2a8-47e7-b1f0-efc059c6aeee)| 1 | $15.00 |
 | Sensor PIR       | <img src="https://example.com/pir_sensor.jpg" width="100"/>                                                  | 1        | $5.00   |
 | Servomotor SG90   | <img src="https://example.com/servo.jpg" width="100"/>                                                      | 2        | $6.00   |
 | LEDs RGB         | <img src="https://example.com/led_rgb.jpg" width="100"/>                                                     | 2        | $2.00   |
