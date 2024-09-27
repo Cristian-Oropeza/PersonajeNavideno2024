@@ -25,7 +25,8 @@ El personaje (Robot) cuando detecta movimiento a una distancia de 10 cm prende l
 Thonny y Arduino IDE
 
 ## Dibujo del personaje
-(imagen de personaje)
+![Imagen de WhatsApp 2024-09-27 a las 08 07 59_b0c7d3ef](https://github.com/user-attachments/assets/b509fe30-0bac-4deb-93d2-32d9b9260347)
+
 
 ## Enlaces de la simulación de wokwi
 **Enlace de simulacion de wokwi**
