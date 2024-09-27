@@ -6,7 +6,7 @@ ROBIDAD
 Cristian Efraín Oropeza Yepiz
 
 ## Explicacion del funcionamiento
-El personaje (Robot) cuando detecta movimiento a una distancia de 10 cm prende los leds que tiene en los ojos, ademas de que mueve los brazos a 90° y produce algo de sonido, todo esto durante 10 segundos despues de detectar moviemiento y luego se apaga.
+El personaje (Robot) cuando detecta movimiento a una distancia de 10 cm prende los leds que tiene en los ojos, ademas de que mueve los brazos a 90°, produce algo de sonido y muestra un mensaje en el pecho, todo esto durante 10 segundos despues de detectar moviemiento y luego se apaga.
 
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
@@ -22,6 +22,7 @@ Thonny y Arduino IDE
 (imagen de personaje)
 
 ## Enlaces de la simulación de wokwi
+![image](https://github.com/user-attachments/assets/76de0020-36ae-4e0d-8aef-80d211e18875)
 https://wokwi.com/projects/410115459908023297 
 
 ## Enlace de la simulacion de wokwi
