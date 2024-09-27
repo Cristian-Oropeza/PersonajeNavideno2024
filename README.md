@@ -29,10 +29,10 @@ Thonny y Arduino IDE
 
 
 ## Enlaces de la simulación de wokwi
-**Enlace de simulacion de wokwi**
+**Enlace de simulacion de wokwi:**
 https://wokwi.com/projects/410115459908023297 
 
-**Enlace al video de la simulacion en wokwi**
+**Enlace al video de la simulacion en wokwi:**
 (Link drive)
 
 ## Capturas de Evaluaciones de Curso de C
