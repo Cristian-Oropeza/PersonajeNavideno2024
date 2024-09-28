@@ -31,7 +31,7 @@ Thonny y Arduino IDE
 ## Enlaces de la simulación de wokwi
 **Enlace de simulacion de wokwi (Proyecto final):** https://wokwi.com/projects/410115459908023297
 
-**Enlace de simulacion de wokwi (Personaje navideño):** https://wokwi.com/projects/4102152279280281
+**Enlace de simulacion de wokwi (Personaje navideño):** https://wokwi.com/projects/410215227928028161
 
 
 **Enlace al video de la simulacion en wokwi:**
