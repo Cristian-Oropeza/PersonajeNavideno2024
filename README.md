@@ -29,11 +29,13 @@ Thonny y Arduino IDE
 
 
 ## Enlaces de la simulación de wokwi
-**Enlace de simulacion de wokwi:**
-https://wokwi.com/projects/410115459908023297 
+**Enlace de simulacion de wokwi (Proyecto final):** https://wokwi.com/projects/410115459908023297
+
+**Enlace de simulacion de wokwi (Personaje navideño):** https://wokwi.com/projects/4102152279280281
+
 
 **Enlace al video de la simulacion en wokwi:**
-(Link drive)
+[(Link drive)](https://drive.google.com/drive/folders/1F7nKmsZF57B58uOsczcu23FrY_FDkPV7)
 
 ## Capturas de Evaluaciones de Curso de C
 CE1 Modulo 1: Intro to computer programming and the C languaje
