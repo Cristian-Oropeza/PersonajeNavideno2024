@@ -6,14 +6,14 @@ ROBIDAD
 Cristian Efraín Oropeza Yepiz
 
 ## Explicacion del funcionamiento
-El personaje (Robot) cuando detecta movimiento a una distancia de 10 cm prende los leds que tiene en los ojos, ademas de que mueve los brazos a 90°, produce algo de sonido y muestra un mensaje en el pecho, todo esto durante 10 segundos despues de detectar moviemiento y luego se apaga.
+El personaje (ROBIDAD) cuando detecta movimiento a una distancia de 10 cm prende los leds que tiene por el cuerpo, ademas mueve el cuerpo media vuelta (180°), produce una melodia navideña y muestra un mensaje en el pecho diciendo "Felices Fiestas", todo esto durante 10 segundos despues de detectar moviemiento y luego se detiene y comienza nuevamente la lectura de la distancia.
 
 ## Materiales a utlizar
 | Material         | Imagen | Cantidad | Precio  |
 |------------------|-------------------------------------------------------------------------------------------------------------|----------|---------|
-| Placa Arduino Uno | <img src="https://github.com/user-attachments/assets/39048c81-c2a8-47e7-b1f0-efc059c6aeee" width="60"/> | 1 | $15.00 |
-| Sensor PIR | <img src="https://github.com/user-attachments/assets/578ecc74-c630-4b28-a5da-534315be9ee1" width="100"/> | 1 | $5.00 |
-| Servomotor SG90 | <img src="https://github.com/user-attachments/assets/8ae1aa9c-0251-4731-b013-a7b8b73f5ba7" width="100"/> | 2 | $6.00 |
+| Placa Arduino Uno | <img src="https://github.com/user-attachments/assets/39048c81-c2a8-47e7-b1f0-efc059c6aeee" width="60"/> | 1 | $80.00 |
+| Sensor Ultrasonico | <img src="https://github.com/user-attachments/assets/578ecc74-c630-4b28-a5da-534315be9ee1" width="100"/> | 1 | $5.00 |
+| Servomotor SG90 | <img src="https://github.com/user-attachments/assets/8ae1aa9c-0251-4731-b013-a7b8b73f5ba7" width="100"/> | 2 | $40.00 |
 | LEDs RGB | <img src="https://github.com/user-attachments/assets/0ef372bf-1c11-4ae0-9dfb-b34800260e96" width="100"/> | 2 | $2.00 |
 | Pantalla OLED | <img src="https://github.com/user-attachments/assets/58cc6ea6-59d0-4d65-a39e-90c917803234" width="100"/> | 1 | $10.00 |
 | Buzzer | <img src="https://github.com/user-attachments/assets/cd8d664c-87e8-4462-ad53-9b355c68a740" width="100"/> | 1 | $2.00 |
