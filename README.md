@@ -12,15 +12,14 @@ El personaje (ROBIDAD) cuando detecta movimiento a una distancia de 10 cm prende
 | Material         | Imagen | Cantidad | Precio  |
 |------------------|-------------------------------------------------------------------------------------------------------------|----------|---------|
 | Placa Arduino Uno | <img src="https://github.com/user-attachments/assets/39048c81-c2a8-47e7-b1f0-efc059c6aeee" width="60"/> | 1 | $80.00 |
-| Sensor Ultrasonico | <img src="https://www.330ohms.com/cdn/shop/products/photo_A_OS-03261_SensorUltrasonico_HC-SR04_01_1200x1200.png?v=1598042103" width="100"/> | 1 | $5.00 |
-
+| Sensor Ultrasonico | <img src="https://www.330ohms.com/cdn/shop/products/photo_A_OS-03261_SensorUltrasonico_HC-SR04_01_1200x1200.png?v=1598042103" width="100"/> | 1 | $40.00 |
 | Servomotor SG90 | <img src="https://github.com/user-attachments/assets/8ae1aa9c-0251-4731-b013-a7b8b73f5ba7" width="100"/> | 2 | $40.00 |
 | LEDs RGB | <img src="https://github.com/user-attachments/assets/0ef372bf-1c11-4ae0-9dfb-b34800260e96" width="100"/> | 2 | $2.00 |
-| Pantalla OLED | <img src="https://github.com/user-attachments/assets/58cc6ea6-59d0-4d65-a39e-90c917803234" width="100"/> | 1 | $10.00 |
-| Buzzer | <img src="https://github.com/user-attachments/assets/cd8d664c-87e8-4462-ad53-9b355c68a740" width="100"/> | 1 | $2.00 |
-| Jumpers y cables | <img src="https://github.com/user-attachments/assets/a280353d-bdbf-47d8-9919-6c51b14fe28b" width="100"/> | 1 pack | $3.00 |
-| Resistencias | <img src="https://github.com/user-attachments/assets/328da7ee-7586-4beb-8869-fc11694266de" width="100"/> | 2 | $1.00 |
-| Carton | <img src="https://github.com/user-attachments/assets/3ebfd4ba-f5f6-4d3a-84a9-6060d9243c37" width="100"/> | 1 | $20.00 |
+| Pantalla OLED | <img src="https://github.com/user-attachments/assets/58cc6ea6-59d0-4d65-a39e-90c917803234" width="100"/> | 1 | $60.00 |
+| Buzzer | <img src="https://github.com/user-attachments/assets/cd8d664c-87e8-4462-ad53-9b355c68a740" width="100"/> | 1 | $10.00 |
+| Jumpers y cables | <img src="https://github.com/user-attachments/assets/a280353d-bdbf-47d8-9919-6c51b14fe28b" width="100"/> | 1 pack | $30.00 |
+| Resistencias | <img src="https://github.com/user-attachments/assets/328da7ee-7586-4beb-8869-fc11694266de" width="100"/> | 2 | $15.00 |
+| Carton | <img src="https://github.com/user-attachments/assets/3ebfd4ba-f5f6-4d3a-84a9-6060d9243c37" width="100"/> | 1 | $42.00 |
 
 ## Software a utilizar
 Thonny y Arduino IDE
