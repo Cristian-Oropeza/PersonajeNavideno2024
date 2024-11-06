@@ -22,7 +22,7 @@ El personaje (ROBIDAD) cuando detecta movimiento a una distancia de 10 cm prende
 | Carton | <img src="https://github.com/user-attachments/assets/3ebfd4ba-f5f6-4d3a-84a9-6060d9243c37" width="100"/> | 1 | $42.00 |
 
 ## Software a utilizar
-Thonny y Arduino IDE
+Thonny
 
 ## Dibujo del personaje
 ![Imagen de WhatsApp 2024-09-27 a las 08 07 59_b0c7d3ef](https://github.com/user-attachments/assets/b509fe30-0bac-4deb-93d2-32d9b9260347)
